@@ -1,10 +1,2 @@
-<!DOCTYPE HTML>
-<html lang = "en">
-<head>
-  <title>basic.html</title>
-  <meta charset = "UTF-8" />
-</head>
-<body>
-
-</body>
-</html>
+This is lab 06...
+It's about JavaScript conditionals.</p>
