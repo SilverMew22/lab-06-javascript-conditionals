@@ -8,12 +8,17 @@
     <script>
       var  cakeornot = prompt ("Do you want cake?(yes/no)");
       if(cakeornot=== "yes")
-      {console.log("Have some cake.");}
+      {console.log("Have some cake.");
+	  document.write("Have some cake.");
+	  }
          else if (cakeornot === "no"){
-        console.log("No cake for you");}
+        console.log("No cake for you");
+		document.write("No cake for you");
+		}
         else{
-          //(cakeornot !== "yes" || "no")
-          console.log("I do not understand");}
+          console.log("I do not understand");
+		  document.write("I do not understand");
+		  }
     </script>
   </body>
 </html>
